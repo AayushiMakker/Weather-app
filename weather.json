@@ -1,0 +1,26 @@
+[
+  {
+    "city": "Lucknow",
+    "temperature": "32",
+    "date": "2022-10-02 12:19",
+    "condition": "Mist"
+  },
+  {
+    "city": "Delhi",
+    "temperature": "35",
+    "date": "2022-10-02 12:20",
+    "condition": "Sunny"
+  },
+  {
+    "city": "Mumbai",
+    "temperature": "29",
+    "date": "2022-10-02 12:21",
+    "condition": "Cloudy"
+  },
+  {
+    "city": "Chennai",
+    "temperature": "33",
+    "date": "2022-10-02 12:22",
+    "condition": "Humid"
+  }
+]
